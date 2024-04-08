@@ -1,0 +1,15 @@
+Name, Subject, marks
+Saman, Maths, 45
+Amal, Maths, 56
+Kamal, Maths, 43
+Janith, Maths, 34
+Kelum, Maths, 87
+Saman, Chem, 33
+Amal, Chem, 66
+Namal, Chem, 52
+Sunil, Chem, 12
+Kamal, Chem, 37
+Kusum, P6, 43
+Amal, P6, 33
+Janith, P6, 65
+Kelum, P6, 90
